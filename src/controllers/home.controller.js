@@ -29,8 +29,8 @@ const endpoints = [
 const home = (req, res) => {
   res.json({
     endpoints,
-    maintainer: "R.M. Reza (renomureza@gmail.com)",
-    source: "https://github.com/renomureza/quran-api-id/",
+    maintainer: "Roynaldi (roidev.my.id)",
+    source: "https://github.com/idlanyor/quran-api-id/",
   });
 };
 
